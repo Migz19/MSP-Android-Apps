@@ -5,7 +5,7 @@ Welcome to the GitHub repository of the MSP (Microsoft Student Partner) Android 
 ## Projects
 
 ### 1. Simple News App
-- **Repository**: [Link to Simple News App video link](https://github.com/msp-android-team/simple-news-app)
+- **Repository**: [Link to Simple News App video](https://drive.google.com/file/d/1W_MQ_cYhiZr0QM2QgwMpmWB4xVFoDKGb/view?usp=drivesdk)
 - **Description**: A straightforward Android app for fetching and displaying the latest news articles. Stay updated with the world's happenings, all within one app.
 
 ### 2. Optical Character Recognition and QR Scanner App
@@ -13,8 +13,8 @@ Welcome to the GitHub repository of the MSP (Microsoft Student Partner) Android 
 - **Description**: An app that combines Optical Character Recognition (OCR) technology with a QR code scanner. Extract text from images and scan QR codes effortlessly.
 
 ### 3. Notes APP
-- **Repository**: [Link to QR Generator & Scanner App Repository](https://github.com/uoseftalaat/Note_App/tree/a44c2681aaac2ff37fa632b16a1545232347eaeb)
-- **Description**: This app serves a dual purpose by allowing you to generate QR codes and scan them. Easily create and read QR codes for various applications.
+- **Repository**: [Link to Notes App](https://github.com/uoseftalaat/Note_App/tree/a44c2681aaac2ff37fa632b16a1545232347eaeb)
+- **Description**: This app serves productivity needs by adding user notes
 
 ### 4. Asteroid Radar App
 - **Repository**: [Link to Asteroid Radar App Repository](https://github.com/AbanoubGamalll/Asteroid-Radar-App/tree/7b23b4f5ea7d4b3c6ae392a38e30597724a23763)
