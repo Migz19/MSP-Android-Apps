@@ -25,8 +25,8 @@ Welcome to the GitHub repository of the MSP (Microsoft Student Partner) Android 
 - **Description**: The Movie Club app is your gateway to discovering and enjoying the latest movies. It fetches movie data from various APIs and allows you to save your favorite movies in a Room database.
 
 ### 6. Location Reminder App
-Repository: [Link to Location Reminder App Repository](https://github.com/AbanoubGamalll/LocationReminders/tree/759e52b087944b042964e4ca88854de893fb6321)
-Description: Stay organized with our Location Reminder app.
+- **Repository**: [Link to Location Reminder App Repository](https://github.com/AbanoubGamalll/LocationReminders/tree/759e52b087944b042964e4ca88854de893fb6321)
+- **Description**: Stay organized with our Location Reminder app.
 ## Getting Started
 
 Each project is hosted in its own repository and has its dedicated subdirectory within this repository. You can click on the provided links to access the individual projects, and there you will find detailed instructions on how to set up and run each app.
