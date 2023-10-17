@@ -1,0 +1,15 @@
+[submodule "LocationReminder"]
+	path = LocationReminder
+	url = https://github.com/AbanoubGamalll/LocationReminders.git
+[submodule "AsteroidRadar"]
+	path = AsteroidRadar
+	url = https://github.com/AbanoubGamalll/Asteroid-Radar-App.git
+[submodule "OQR_Recognizer"]
+	path = OQR_Recognizer
+	url = https://github.com/Migz19/OCR_detector.git
+[submodule "NoteApp"]
+	path = NoteApp
+	url = https://github.com/uoseftalaat/Note_App.git
+[submodule "MovieClub"]
+	path = MovieClub
+	url = https://github.com/Migz19/MovieClub.git
