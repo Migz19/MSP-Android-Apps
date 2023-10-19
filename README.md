@@ -1,9 +1,9 @@
 # MSP Android Team Projects (2022-2023)
 
 Welcome to the GitHub repository of the MSP (Microsoft Student Partner) Android team for the season 2022-2023. In this repository, you will find various Android projects, each with its own dedicated repository and subdirectory. We encourage you to explore, contribute, and try out these projects. Feel free to open issues, submit pull requests, and provide feedback.
-<a
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconbolt.com%2Ficonsets%2Fstreamline-ux%2Fandroid-phone&psig=AOvVaw3GeHTxKaBE1phh1bQI5GVv&ust=1697838285753000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDoidGKg4IDFQAAAAAdAAAAABAE" width="300" height="300">
-</a>
+##
+
+  <img src= "https://www.freeiconspng.com/thumbs/android-icon/android-icon-21.png" alt="Android Logo" width="400" height="400">
 
 ## Projects
 
