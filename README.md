@@ -2,7 +2,7 @@
 
 Welcome to the GitHub repository of the MSP (Microsoft Student Partner) Android team for the season 2022-2023. In this repository, you will find various Android projects, each with its own dedicated repository and subdirectory. We encourage you to explore, contribute, and try out these projects. Feel free to open issues, submit pull requests, and provide feedback.
 <a
-  <img src="[https://thumbs.dreamstime.com/b/modern-flat-design-apk-file-icon-web-simple-style-217030587.jpg](https://www.vhv.rs/viewpic/hxTwhow_android-robot-sideview-character-cool-android-logo-png/#)" alt="APK" width="300" height="300">
+  <img src="[https://thumbs.dreamstime.com/b/modern-flat-design-apk-file-icon-web-simple-style-217030587.jpg](https://www.vhv.rs/viewpic/hxTwhow_android-robot-sideview-character-cool-android-logo-png/#)" width="300" height="300">
 </a>
 
 ## Projects
